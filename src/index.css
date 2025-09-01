@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@utility container {  margin-inline: auto; }
+
+
+/* ----------- variable */
+@theme{
+
+/* ---------- color  */
+--color-primary: #FB2E86;
+--color-main:#151875;
+
+
+  /* ---------- font */
+  --font-lato:"Lato", sans-serif;
+}
