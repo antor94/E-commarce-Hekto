@@ -22,7 +22,7 @@ const Navbar = () => {
                         <li className='text-[16px] font-normal font-lato text-[#0D0E43] hover:text-primary duration-[.4s]'>  <Link to={'/'} >Pages</Link> </li>
                         <li className='text-[16px] font-normal font-lato text-[#0D0E43] hover:text-primary duration-[.4s]'>  <Link to={'/allProduct'} >Products</Link> </li>
                         <li className='text-[16px] font-normal font-lato text-[#0D0E43] hover:text-primary duration-[.4s]'>  <Link to={'/blog'} >Blog</Link> </li>
-                        <li className='text-[16px] font-normal font-lato text-[#0D0E43] hover:text-primary duration-[.4s]'>  <Link to={'/'} >Shop</Link> </li>
+                        <li className='text-[16px] font-normal font-lato text-[#0D0E43] hover:text-primary duration-[.4s]'>  <Link to={'/shop'} >Shop</Link> </li>
                         <li className='text-[16px] font-normal font-lato text-[#0D0E43] hover:text-primary duration-[.4s]'>  <Link to={'/contact'} >Contact</Link> </li>
                     </ul>
                 </div>
